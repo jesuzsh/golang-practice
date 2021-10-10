@@ -1,0 +1,4 @@
+nw s 3
+nw s 5
+nw s 4
+nw s 4
